@@ -1,7 +1,5 @@
 # Music_Store_Analysis
 
-## Project Overview
-
 In this project, I worked with a real-world music store database to:
 
 - Analyze customer transactions and preferences.
